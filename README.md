@@ -2,6 +2,7 @@ _This is an assignment to the class [Programmieren 3](https://hsro-inf-prg3.gith
 
 # Assignment 1: A (Java) software engineers toolbox
 
+![build state](https://travis-ci.org/initdb/01-tools.svg?branch=master)
 
 ## Get familiar with Git
 
